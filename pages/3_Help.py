@@ -1,11 +1,13 @@
+## How to use app
+
 import streamlit as st
 
 
 image = "database_icon.jpg"
-st.set_page_config(layout="wide",page_title="Employee Data Upadation App",page_icon=image)
+st.set_page_config(layout="wide",page_title="Employee Data Manipulation App",page_icon=image)
 
 
-st.title("How to use Employee Data Upadation App")
+st.title("How to use Employee Data Manipulation App")
 
 
 st.write("")
