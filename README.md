@@ -5,7 +5,7 @@ This application enables users to insert, update, and delete employee records fr
 Additionally, it includes code for SQL Server database manipulation to enhance aplication.
 
 ## Technology Used
-Python, Pycharm, Excel, SQL Server, 
+Python, Pycharm, Excel, SQL Server, Streamlit
 
 
 ![Screenshot of Employee Manipulation App](https://github.com/Dipapatil/Employee-Data-Manipulation-App/blob/master/Employee_App.png)
